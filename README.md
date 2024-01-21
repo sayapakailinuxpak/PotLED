@@ -10,5 +10,10 @@ Just having fun with potentiometer and some LEDs.
 * 10k ohm potentiometer
 
 ## Wiring Scheme
-<img src="./media_files/prototype.jpg" width="400px" />
-<img src="./media_files/circuit_scheme.png" width="200px" />
+<img src="./media_files/circuit.png" width="400px" />
+
+
+https://github.com/sayapakailinuxpak/PotLED/assets/55786451/1b345295-b0cf-47f2-ac94-8b9722a4b642
+
+
+
